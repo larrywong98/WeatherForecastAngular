@@ -1,0 +1,15 @@
+{
+    "dependencies": {
+        "axios": "^0.24.0",
+        "bootstrap-icons": "^1.7.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "node-fecth": "0.0.1-security",
+        "node-fetch": "^2.6.1",
+        "request": "^2.88.2",
+        "twit": "^2.2.11"
+    },
+    "scripts": {
+        "start": "node app.js"
+    }
+}

@@ -1,0 +1,96 @@
+#p1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+.btn-search {
+    background: #424242;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #1c1c1c;
+}
+.btn-search:link, .btn-search:visited {
+color: #fff;
+}
+.btn-search:active, .btn-search:hover {
+background: #1c1c1c;
+color: #fff;
+}
+#streetalert{
+    color:red;
+}
+#favoriteicon{
+    color: black;
+}
+#favoritebutton{
+    background-color: white;
+    border: solid;
+    border-color: grey;
+    border-radius: 15%;
+    border-width: 2px;
+}
+#favoritebutton1{
+    background-color: white;
+    border: solid;
+    border-color: grey;
+    border-radius: 15%;
+    border-width: 2px;
+}
+#detailsbutton{
+    background-color: white;
+    border: none;
+    
+}
+#detailtag{
+    font-size: 13px;
+    color:grey;
+}
+#listbutton{
+    background-color: white;
+    border: 1px;
+    border-radius: 15%;
+}
+#listbutton2{
+    background-color: #007bff;
+}
+#clearbutton{
+    border:solid;
+    border-width: 1px;
+}
+#daytabresult{
+    text-align: left;
+}
+#searchbuttondisabled{
+   background-color: #5a9cfe;
+   border:none;
+}
+#searchbuttonenabled{
+    border:none;
+}
+#googleauto{
+
+}
+#citys{
+    text-align: left;
+}
+#show0{
+    background-color: #fef1c5;
+}
+#show1{
+    background-color: #ffd6da;
+}
+/* .carousel-inner > .item {
+    position: relative;
+    display: none;
+    -webkit-transition: 0.1s ease-in-out left;
+    -moz-transition: 0.1s ease-in-out left;
+    -o-transition: 0.1s ease-in-out left;
+    transition: 0.1s ease-in-out left;
+} */
+agm-map {
+    height: 500px;
+    /* height: 100%;
+    width: 100%; */
+}
